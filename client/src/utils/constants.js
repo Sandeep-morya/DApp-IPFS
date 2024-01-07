@@ -1,0 +1,12 @@
+﻿
+export const CONTRACT_ADDRESS = "0x5FbDB2315678afecb367f032d93F642f64180aa3";
+// This is the default id used by the Hardhat Network
+export const HARDHAT_NETWORK_ID = '31337';
+
+// This is an error code that indicates that the user canceled a transaction
+export const ERROR_CODE_TX_REJECTED_BY_USER = 4001;
+export const PINATA_URL = "https://api.pinata.cloud/pinning/pinFileToIPFS";
+export const PINATA_IMAGE = 'https://gateway.pinata.cloud/ipfs/';
+export const API_KEY = "927019995cb9201d5cb6";
+export const API_SECRET = "35204e9fe7e313db5e787cd0c7bf222acd1186e97002b142181c7f5962cc4af8";
+export const JWT = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySW5mb3JtYXRpb24iOnsiaWQiOiJjZDAwNTQwMy02ZDhkLTQ0MmItODYwOS0wMDEwZGRkZDI0M2UiLCJlbWFpbCI6InNhYWJtYXVyeWFAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsInBpbl9wb2xpY3kiOnsicmVnaW9ucyI6W3siaWQiOiJGUkExIiwiZGVzaXJlZFJlcGxpY2F0aW9uQ291bnQiOjF9LHsiaWQiOiJOWUMxIiwiZGVzaXJlZFJlcGxpY2F0aW9uQ291bnQiOjF9XSwidmVyc2lvbiI6MX0sIm1mYV9lbmFibGVkIjpmYWxzZSwic3RhdHVzIjoiQUNUSVZFIn0sImF1dGhlbnRpY2F0aW9uVHlwZSI6InNjb3BlZEtleSIsInNjb3BlZEtleUtleSI6IjkyNzAxOTk5NWNiOTIwMWQ1Y2I2Iiwic2NvcGVkS2V5U2VjcmV0IjoiMzUyMDRlOWZlN2UzMTNkYjVlNzg3Y2QwYzdiZjIyMmFjZDExODZlOTcwMDJiMTQyMTgxYzdmNTk2MmNjNGFmOCIsImlhdCI6MTcwNDYwOTk5NH0.Y8aYEMP6wVxAaBQEF_A7SPPB_mChIwOET29r6Xfpfcs";
